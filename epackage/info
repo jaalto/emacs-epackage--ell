@@ -16,7 +16,7 @@ Vcs-User:
 Vcs-Password:
 Homepage:
 Wiki: http://www.emacswiki.org/emacs/EmacsLispList
-Description: Browse the Emacs Lisp List (ELL)
+Description: rrowse the Emacs Lisp List: package URL database
  Provides command [C-u] M-x ell-packages to view the
  EmacsLisp List in its own buffer. With prefix argument,
  sort listign by author name.
