@@ -21,4 +21,4 @@ Description: Browse the Emacs Lisp List (ELL)
  EmacsLisp List in its own buffer. With prefix argument,
  sort listign by author name.
  .
- Note YYYY-MM-DD the code hasn't been touched since 2000.
+ Note 2010-12-03 the code hasn't been touched since 2000.
