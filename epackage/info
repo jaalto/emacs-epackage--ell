@@ -1,0 +1,23 @@
+Package: ell
+Section: extensions
+License: GPL-2+
+Depends: emacs (>= 22)
+Status: unmaintained
+  note YYYY-MM-DD the code hasn't been touched since 2000 ;
+Compat:
+Maintainer:
+Email: Jean-Philippe Theberge <jphil@emacslisp.org>,
+    Stephen Eglen <stephen@cogsci.ed.ac.uk>,
+    Nascif A. Abousalh Neto <nascif@acm.org>
+Bugs:
+Vcs-Type: http
+Vcs-Url: http://www.damtp.cam.ac.uk/user/sje30/emacs/ell.el
+Vcs-Browser:
+Vcs-User:
+Vcs-Password:
+Homepage:
+Wiki: http://www.emacswiki.org/emacs/EmacsLispList
+Description: Browse the Emacs Lisp List (ELL)
+    Provides command [C-u] M-x ell-packages to view the
+    EmacsLisp List in its own buffer. With prefix argument,
+    sort listign by author name.
