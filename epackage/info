@@ -4,7 +4,7 @@ License: GPL-2+
 Depends: emacs (>= 22)
 Status: unmaintained
 Compat:
-Maintainer:
+Maintainer: jari.aalto@cante.net
 Email: Jean-Philippe Theberge <jphil@emacslisp.org>,
     Stephen Eglen <stephen@cogsci.ed.ac.uk>,
     Nascif A. Abousalh Neto <nascif@acm.org>
