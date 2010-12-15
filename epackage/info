@@ -16,6 +16,7 @@ Vcs-User:
 Vcs-Password:
 Homepage:
 Wiki: http://www.emacswiki.org/emacs/EmacsLispList
+Commentary: ell.el
 Description: browse the Emacs Lisp List of available packages
  Provides command [C-u] M-x ell-packages to view the
  Emacs Lisp List (ELL) in its own buffer. With prefix argument,
