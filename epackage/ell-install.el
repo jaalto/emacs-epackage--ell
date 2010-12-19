@@ -1,2 +1,2 @@
 (autoload 'ell-packages "" t)
-(provide 'ell-xactivate)
+(provide 'ell-install)
