@@ -2,13 +2,14 @@ Package: ell
 Section: extensions
 License: GPL-2+
 Depends: emacs (>= 22)
-Status: unmaintained
+Status: stable
 Compat:
 Maintainer: Jari Aalto <jari.aalto@cante.net>
-Email: Jean-Philippe Theberge <jphil@emacslisp.org>,
+Bugs:
+Upstream: Jean-Philippe Theberge <jphil@emacslisp.org>,
     Stephen Eglen <stephen@cogsci.ed.ac.uk>,
     Nascif A. Abousalh Neto <nascif@acm.org>
-Bugs:
+Upstream-Bugs:
 Vcs-Type: http
 Vcs-Url: http://www.damtp.cam.ac.uk/user/sje30/emacs/ell.el
 Vcs-Browser:
@@ -22,4 +23,4 @@ Description: browse the Emacs Lisp List of available packages
  Emacs Lisp List (ELL) in its own buffer. With prefix argument,
  sort listing by author name.
  .
- Note 2010-12-03 the code hasn't been touched since 2000.
+ Note 2010-12-03: the code hasn't been touched since 2000.
