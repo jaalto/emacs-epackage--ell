@@ -11,4 +11,4 @@
 (autoload 'ell-update-buffer                    "ell" "" nil)
 (autoload 'ell-packages                         "ell" "" t)
 (autoload 'ell-fix-for-xml-parser-bug           "ell" "" nil)
-(provide 'ell-autoloads)
+(provide 'ell-epkg-autoloads)
