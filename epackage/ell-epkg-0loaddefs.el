@@ -1,5 +1,5 @@
-
-;;;### (autoloads (ell-packages) "ell" "ell.el" (18825 32421))
+
+;;;### (autoloads (ell-packages) "../ell" "ell.el" (20185 25681))
 ;;; Generated autoloads from ell.el
 
 (autoload 'ell-packages "ell" "\
