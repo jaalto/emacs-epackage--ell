@@ -1,2 +1,2 @@
 (autoload 'ell-packages "" t)
-(provide 'ell-epkg-install)
+(provide 'ell-epackage-install)
